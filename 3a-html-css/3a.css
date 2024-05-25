@@ -1,0 +1,71 @@
+.cat-meme {
+    width: 200px;
+    border-radius: 20px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+.username {
+    margin-top: 10px;
+    margin: 0 auto;
+    display: block;
+    font-size: 15px;
+    margin-bottom: 10px;
+    height: 25px;
+    border-color: aqua;
+    border-radius: 5px;
+}
+.password {
+    margin-top: 15px;
+    margin: 0 auto;
+    display: block;
+    font-size: 15px;
+    margin-bottom: 15px
+}
+.password {
+    height: 25px;
+    border-color: aqua;
+    border-radius: 5px;
+}
+.FP {
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.submit {
+    margin-top: 5px;
+    margin: 0 auto;
+    display: block;
+    font-size: 15px;
+    height: 35px;
+    width: 75px;
+    border-radius: 7px;
+    background-color: aqua;
+    cursor: pointer;
+}
+.container {
+    margin: 0 auto;
+    display: block;
+    width: 350px;
+    height: 630px;
+    background-color: lightblue;
+    box-shadow: 5px 20px 50px #000;
+    border-radius: 10px;
+}
+.text-cat {
+    margin-bottom: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    padding-top: 70px;
+}
+.background {
+    background-color: rgb(0, 84, 122);
+    background-size: cover;
+}
+.background form .FP {
+    color: rgb(0, 84, 122);
+    text-decoration: none;
+}
